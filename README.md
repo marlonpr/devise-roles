@@ -1,3 +1,3 @@
 # README
 
-Devise rails roles :D
+Devise rails roles.
